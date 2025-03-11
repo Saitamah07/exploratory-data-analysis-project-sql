@@ -8,7 +8,8 @@
 
 Para representar las distintas etapas de nuestro análisis, utilizamos el siguiente diagrama:
 
-[image](https://github.com/user-attachments/assets/7834ddd9-2274-4ce2-bfb5-0c03a220db56)
+![image](https://github.com/user-attachments/assets/622e7622-921b-457b-b8d6-f0bbc6b9a2a8)
+
 
 > **Nota:** Asegúrate de colocar la imagen en la carpeta `docs` y renombrarla a `data_analysis_flow.png` o ajusta la ruta según tu organización de archivos.
 
