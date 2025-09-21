@@ -6,13 +6,6 @@ The goal of this project is to **demonstrate how SQL can be used as the primary 
 
 ---
 
-## 📑 Table of Contents
-1. [Workflow Diagram](#-workflow-diagram)  
-2. [Exploratory Data Analysis (EDA)](#1-exploratory-data-analysis-eda)  
-3. [Advanced Analytics](#2-advanced-analytics)  
-
----
-
 ## 🗂️ Workflow Diagram
 
 ![image](https://github.com/user-attachments/assets/622e7622-921b-457b-b8d6-f0bbc6b9a2a8)  
@@ -24,7 +17,7 @@ The workflow is divided into two main phases:
 
 ---
 
-## 1️⃣ Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 The **EDA** phase provides an initial understanding of the dataset, validates its quality, and identifies patterns or inconsistencies.  
 
