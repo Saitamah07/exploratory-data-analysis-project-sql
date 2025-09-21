@@ -10,9 +10,6 @@ The goal of this project is to **demonstrate how SQL can be used as the primary 
 1. [Workflow Diagram](#-workflow-diagram)  
 2. [Exploratory Data Analysis (EDA)](#1-exploratory-data-analysis-eda)  
 3. [Advanced Analytics](#2-advanced-analytics)  
-4. [Requirements](#-requirements)  
-5. [How to Reproduce the Project](#-how-to-reproduce-the-project)  
-6. [Next Steps](#-next-steps)  
 
 ---
 
@@ -20,7 +17,6 @@ The goal of this project is to **demonstrate how SQL can be used as the primary 
 
 ![image](https://github.com/user-attachments/assets/622e7622-921b-457b-b8d6-f0bbc6b9a2a8)  
 
-> **Note:** If you clone this repository, place the diagram inside the `docs` folder with the name `data_analysis_flow.png`, or update the path accordingly.
 
 The workflow is divided into two main phases:  
 1. **EDA (Exploratory Data Analysis)** – Steps 1 to 9.  
